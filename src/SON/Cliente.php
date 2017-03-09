@@ -2,6 +2,8 @@
 
 namespace SON;
 
+//NEW COMENT
+
 class Cliente {
 
     private $db;
